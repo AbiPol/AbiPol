@@ -16,7 +16,7 @@ Experto en resolución de incidencias complejas y gestión de equipos técnicos.
 Es el eje de mi especialización técnica donde implemento el stack moderno y exploro diversas tecnologías de Frontend:
 
 - >**Frontend (Multi-stack):** - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) **Angular 19**
-- >**React:**  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) **React (Módulo completado y subido)** 🆕
+  - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) **React (Módulo completado y subido)** 🆕
 - >**Backend:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) **Spring Boot**
 - >**Infraestructura:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) **Docker** & ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) **AWS**
 
